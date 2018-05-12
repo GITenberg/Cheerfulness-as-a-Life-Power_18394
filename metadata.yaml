@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1515
     wikipedia: http://en.wikipedia.org/wiki/Orison_Swett_Marden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18394#Cheerfulness-as-a-Life-Power
 gutenberg_issued: '2006-05-15'
 gutenberg_type: Text
 identifiers:
